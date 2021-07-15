@@ -1,0 +1,7 @@
+﻿  test.c
+c:\users\liuhaohua\documents\visual studio 2013\projects\saolei\saolei\test.c(19): warning C4020: “InitBoard”: 实参太多
+c:\users\liuhaohua\documents\visual studio 2013\projects\saolei\saolei\test.c(20): warning C4020: “InitBoard”: 实参太多
+  game.c
+c:\users\liuhaohua\documents\visual studio 2013\projects\saolei\saolei\game.c(4): warning C4029: 声明的形参表不同于定义
+  正在生成代码...
+  saolei.vcxproj -> c:\users\liuhaohua\documents\visual studio 2013\Projects\saolei\Debug\saolei.exe
