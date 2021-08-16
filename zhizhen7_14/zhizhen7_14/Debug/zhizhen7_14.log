@@ -1,0 +1,4 @@
+﻿  7_14.cpp
+c:\users\liuhaohua\documents\visual studio 2013\projects\zhizhen7_14\zhizhen7_14\7_14.cpp(77): error C2373: “p”: 重定义；不同的类型修饰符
+          c:\users\liuhaohua\documents\visual studio 2013\projects\zhizhen7_14\zhizhen7_14\7_14.cpp(76) : 参见“p”的声明
+c:\users\liuhaohua\documents\visual studio 2013\projects\zhizhen7_14\zhizhen7_14\7_14.cpp(77): error C2078: 初始值设定项太多
